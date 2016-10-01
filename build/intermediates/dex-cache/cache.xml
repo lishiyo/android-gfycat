@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.1.0_0d77d7ab7009c932edf483ca7e52cefa1a637583/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_e40cf9fae19ab6c8003b685c133355be2a02ae35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="eecdddda36a5e19ca2e3a218306601050897a739">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c352f570df25b7b1da627a02b0d7c02efb609736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.1.0_3ebcdd9b6beb5558c59fb9ff06638a716fb7f75c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_aa0d61a6ca902cee1dcd6686556e134ec1acb5a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_d4dee1eafd42de15e415e40761e4ca7a21769b7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_b29adf576febd4c248fe3da9b62cf90d9230874d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_887d69f53979671360297b9a085fc892f6d9603b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_863ebe777a9fbdf48f7fdaa04049b0d2c66463e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.5/965d3e29792e7c4193a2906ccadd5ec2fbb6d441/dagger-1.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="965d3e29792e7c4193a2906ccadd5ec2fbb6d441">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-1.2.5_2756687b0414313b3eadde3a2b9e1163f62d8868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.crashlytics.android/crashlytics/1.1.13/e821eafa1bf489a26bdb71f95078c26785b37a1/crashlytics-1.1.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0e821eafa1bf489a26bdb71f95078c26785b37a1">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/crashlytics-1.1.13_4624e5e64c9f746fb74cae4dd7a11c94b3a71999/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_78dbf2992a6a9dd5e5cc6857e75811eb69e24962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="81f472726cdcebd9f26f8759b62cf5dc876f4a3f">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7c23e11ae8291ed1d1132fb449ccf36ae8df7c8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_9b51e9c6556a773acb890ffc412df25b2b130d41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_575a5059e9bc9fa1829ea7e0ab7232386921c9bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_7cfb4c4d79c7738d517d84e675569d849bc4ae1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_7f50f5b21aeda591ccdbc235edd03a128b029906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/connieli/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/connieli/Google Drive/ANDROID/RxJava/android-gfycat/Gfycat/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_c87edad508174275d794eefc679bf35e8345a9ab/classes.dex" />
+    </item>
+
+</items>
